@@ -16,7 +16,8 @@ dependencies = [
     "ipython",
     "matplotlib",
     "numpy",
-    "pandas"
+    "pandas",
+    "sympy"
 ]
 
 [project.optional-dependencies]
