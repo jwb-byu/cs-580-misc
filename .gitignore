@@ -1,0 +1,30 @@
+# This file is adapted from similar files used in my prior academic and industry work.
+# Those files and this file may have been developed with the help of LLM's like ChatGPT
+
+# temporary files
+tmp.*
+tmp/*
+
+# environment
+*.egg-info
+.mypy_cache
+.ruff_cache
+.vscode/*
+.venv
+__pycache__
+
+# latex
+**/*.aux
+**/*.bbl
+**/*.bcf
+**/*.blg
+**/*.fdb_latexmk
+**/*.fls
+**/*.gz
+**/*.log
+**/*.out
+**/*.run.xml
+**/_minted*
+
+# specific files
+tmp.py
