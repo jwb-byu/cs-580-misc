@@ -15,6 +15,7 @@ dependencies = [
     "cvxpy",
     "ipykernel",
     "ipython",
+    "jax",
     "matplotlib",
     "numpy",
     "pandas",
